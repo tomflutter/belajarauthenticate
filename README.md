@@ -2,7 +2,13 @@
 
 A new Flutter project.
 
-## Getting Started
+## Support Me
+
+<a href="https://www.nihbuatjajan.com/iwtriplet" target="_blank"><img src="https://d4xyvrfd64gfm.cloudfront.net/buttons/default-cta.png" alt="Nih buat jajan" style="height: 51px !important;" ></a>
+
+<a href="https://www.paypal.me/tomyradea4">
+  <img src="https://img.shields.io/badge/Donate-PayPal-green.svg" alt="Donate with PayPal" />
+</a>
 
 This project is a starting point for a Flutter application.
 
